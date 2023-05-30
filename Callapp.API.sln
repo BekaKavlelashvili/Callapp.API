@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Callapp.API", "Callapp.API\Callapp.API.csproj", "{8078EE2C-354F-48A0-BD55-E87A3E357243}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{00E7F2D2-BA89-44B4-8E2F-2B8285BC1487}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libraries", "Libraries", "{91EA28FA-BFB9-4793-A549-3D2CA2405898}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Callapp.Application", "Callapp.Application\Callapp.Application.csproj", "{9056B36A-D553-4601-8CD8-8DF198B4AD91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Callapp.Domain", "Callapp.Domain\Callapp.Domain.csproj", "{A302F647-A071-4C27-B7F4-19613591E261}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Callapp.Infrastructure", "Callapp.Infrastructure\Callapp.Infrastructure.csproj", "{8D690ED0-B0B6-4D53-8488-71AF49214ED3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Callapp.Shared", "Callapp.Shared\Callapp.Shared.csproj", "{83D75516-31B0-457A-936C-E686E679B1F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8078EE2C-354F-48A0-BD55-E87A3E357243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8078EE2C-354F-48A0-BD55-E87A3E357243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8078EE2C-354F-48A0-BD55-E87A3E357243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8078EE2C-354F-48A0-BD55-E87A3E357243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9056B36A-D553-4601-8CD8-8DF198B4AD91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9056B36A-D553-4601-8CD8-8DF198B4AD91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9056B36A-D553-4601-8CD8-8DF198B4AD91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9056B36A-D553-4601-8CD8-8DF198B4AD91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A302F647-A071-4C27-B7F4-19613591E261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A302F647-A071-4C27-B7F4-19613591E261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A302F647-A071-4C27-B7F4-19613591E261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A302F647-A071-4C27-B7F4-19613591E261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D690ED0-B0B6-4D53-8488-71AF49214ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D690ED0-B0B6-4D53-8488-71AF49214ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D690ED0-B0B6-4D53-8488-71AF49214ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D690ED0-B0B6-4D53-8488-71AF49214ED3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83D75516-31B0-457A-936C-E686E679B1F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83D75516-31B0-457A-936C-E686E679B1F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83D75516-31B0-457A-936C-E686E679B1F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83D75516-31B0-457A-936C-E686E679B1F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8078EE2C-354F-48A0-BD55-E87A3E357243} = {00E7F2D2-BA89-44B4-8E2F-2B8285BC1487}
+		{9056B36A-D553-4601-8CD8-8DF198B4AD91} = {91EA28FA-BFB9-4793-A549-3D2CA2405898}
+		{A302F647-A071-4C27-B7F4-19613591E261} = {91EA28FA-BFB9-4793-A549-3D2CA2405898}
+		{8D690ED0-B0B6-4D53-8488-71AF49214ED3} = {91EA28FA-BFB9-4793-A549-3D2CA2405898}
+		{83D75516-31B0-457A-936C-E686E679B1F2} = {91EA28FA-BFB9-4793-A549-3D2CA2405898}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AECD84D3-35C5-45AF-A5E9-C02E0C17800F}
+	EndGlobalSection
+EndGlobal

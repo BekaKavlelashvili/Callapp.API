@@ -1,0 +1,15 @@
+C:\Users\NEUTRONS\source\repos\Callapp.API\Callapp.Domain\bin\Debug\net7.0\Callapp.Domain.deps.json
+C:\Users\NEUTRONS\source\repos\Callapp.API\Callapp.Domain\bin\Debug\net7.0\Callapp.Domain.dll
+C:\Users\NEUTRONS\source\repos\Callapp.API\Callapp.Domain\bin\Debug\net7.0\Callapp.Domain.pdb
+C:\Users\NEUTRONS\source\repos\Callapp.API\Callapp.Domain\bin\Debug\net7.0\Callapp.Shared.dll
+C:\Users\NEUTRONS\source\repos\Callapp.API\Callapp.Domain\bin\Debug\net7.0\Callapp.Shared.pdb
+C:\Users\NEUTRONS\source\repos\Callapp.API\Callapp.Domain\obj\Debug\net7.0\Callapp.Domain.csproj.AssemblyReference.cache
+C:\Users\NEUTRONS\source\repos\Callapp.API\Callapp.Domain\obj\Debug\net7.0\Callapp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NEUTRONS\source\repos\Callapp.API\Callapp.Domain\obj\Debug\net7.0\Callapp.Domain.AssemblyInfoInputs.cache
+C:\Users\NEUTRONS\source\repos\Callapp.API\Callapp.Domain\obj\Debug\net7.0\Callapp.Domain.AssemblyInfo.cs
+C:\Users\NEUTRONS\source\repos\Callapp.API\Callapp.Domain\obj\Debug\net7.0\Callapp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\NEUTRONS\source\repos\Callapp.API\Callapp.Domain\obj\Debug\net7.0\Callapp.Domain.csproj.CopyComplete
+C:\Users\NEUTRONS\source\repos\Callapp.API\Callapp.Domain\obj\Debug\net7.0\Callapp.Domain.dll
+C:\Users\NEUTRONS\source\repos\Callapp.API\Callapp.Domain\obj\Debug\net7.0\refint\Callapp.Domain.dll
+C:\Users\NEUTRONS\source\repos\Callapp.API\Callapp.Domain\obj\Debug\net7.0\Callapp.Domain.pdb
+C:\Users\NEUTRONS\source\repos\Callapp.API\Callapp.Domain\obj\Debug\net7.0\ref\Callapp.Domain.dll
